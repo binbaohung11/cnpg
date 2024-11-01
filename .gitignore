@@ -1,0 +1,54 @@
+# Node modules
+node_modules/
+# Output directory
+build/
+# Coverage directory
+coverage/
+# IDE/editor specific files
+.idea/
+.vscode/
+*.swp
+
+# Temporary files
+temp/
+*.tmp
+*.log
+*.lock
+
+# Dependency directories
+jspm_packages/
+
+# Cache files
+.cache/
+.cache-loader/
+.DS_Store
+*.tgz
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Testing and debugging files
+__snapshots__/
+*.spec.js
+*.spec.jsx
+*.test.js
+*.test.jsx
+coverage/
+
+# Service worker
+service-worker.js
+
+# Yarn files
+.yarn-integrity
+
+# npm files
+package-lock.json
+yarn-error.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
